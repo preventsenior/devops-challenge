@@ -1,6 +1,6 @@
-## DevOps Challenge - Prevent Senior
+## DevOps Challenge - Vaga (Plenp/Senior)
 
-Vaga para DevOps Challenge (Pleno/Senior), para iniciar a prova, execute os comandos abaixo:
+Para iniciar a prova, execute os comandos abaixo:
 
 ```
 $ docker run --name devops-challenge -d noppp/devops-challenge:1
