@@ -1,4 +1,4 @@
-## DevOps Challenge - Vaga (Plenp/Senior)
+## DevOps Challenge - Vaga (Pleno/Senior)
 
 Para iniciar a prova, execute os comandos abaixo:
 
