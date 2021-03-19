@@ -1,5 +1,7 @@
 ## DevOps Challenge - Vaga (Pleno/Senior)
 
+Nesse momento somente candidatos que residem no estado de São Paulo, mas sim, estamos de home office :)
+
 Para iniciar a prova, execute os comandos abaixo:
 
 ```
