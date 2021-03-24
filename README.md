@@ -1,6 +1,6 @@
 ## DevOps Challenge - Vaga (Pleno/Senior)
 
-Nesse momento somente candidatos que residam no estado de São Paulo, mas sim, estamos de home office :)
+Nesse momento somente candidatos que residam em São Paulo, mas sim, estamos de home office :)
 
 Para iniciar a prova, execute os comandos abaixo:
 
