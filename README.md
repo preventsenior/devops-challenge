@@ -10,3 +10,5 @@ $ docker exec -ti devops-challenge bash
 ```
 
 Boa sorte!
+
+### Nesse momento a vaga já foi preenchida, vlw vlw!
